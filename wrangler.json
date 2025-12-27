@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "beyondos",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f44fb04e-4145-4273-8c33-8fe0c0eda4d7",
+			"database_name": "beyondaios"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
